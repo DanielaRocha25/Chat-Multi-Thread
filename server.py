@@ -1,3 +1,5 @@
+#Para executar rode o server.py primeiro. Então abra dois terminais e digite python client.py. 
+# Isso vai possibilitar o uso do chat por mais de um usuário simultaneamente.
 import socket
 import datetime
 from _thread import *
